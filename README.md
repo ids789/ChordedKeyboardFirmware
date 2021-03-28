@@ -1,6 +1,7 @@
 # Chorded Keyboard Device
 
 Firmware for an experimental Bluetooth chorded keyboard.  
+Connects to [https://github.com/ids789/ChordedKeyboardAndroid](https://github.com/ids789/ChordedKeyboardAndroid)
 
 ##### Goal
 Build a phone or tablet input device for use while flying a plane.  To be used for noting down air traffic control instructions, making navigational notes and doing calculations.  
