@@ -38,3 +38,5 @@ Button 4 | P0.28 (A3)
 Button 5 | P0.02 (A4)
 Power Button | P0.03 (A5) 
 Status LED | P0.07 (D6)
+
+![Photo](/misc/photo.jpg)
